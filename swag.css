@@ -1,0 +1,150 @@
+body{
+	margin: 0px;
+	font-family: 'Raleway', sans-serif;
+	background-color: lightgrey;
+}
+span{
+	color: cornflowerblue;
+}
+h1, h4, p{
+	margin-left: 1%;
+}
+.checked{
+    color: orange;
+}
+.row{
+	clear: both;
+}
+.clearfix{
+	clear: both;
+}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, 
+.col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10
+{
+	float: left;
+}
+.col-md-1{
+	width: 10%;
+}
+.col-md-2{
+	width: 20%;
+}
+.col-md-3{
+	width: 30%;
+}
+.col-md-4{
+	width: 40%;
+}
+.col-md-5{
+	width: 50%;
+}
+.col-md-6{
+	width: 60%;
+}
+.col-md-7{
+	width: 70%;
+}
+.col-md-8{
+	width: 80%;
+}
+.col-md-9{
+	width: 90%;
+}
+.col-md-10{
+	width: 100%;
+}
+.col-md-offset-1{
+	margin-left:10%;
+}
+.col-md-offset-2{
+	margin-left:20%;
+}
+.col-md-offset-3{
+	margin-left:30%;
+}
+.col-md-offset-4{
+	margin-left:40%;
+}
+.col-md-offset-5{
+	margin-left:50%;
+}
+.col-md-offset-6{
+	margin-left:60%;
+}
+.col-md-offset-7{
+	margin-left:70%;
+}
+.col-md-offset-8{
+	margin-left:80%;
+}
+.col-md-offset-9{
+	margin-left:90%;
+}
+.banner{
+	background-color: white;
+	margin-top: 10%;
+	text-align: center;
+	border-bottom: solid;
+	border-bottom-color: lightgrey;
+}
+.banner img{
+	position: relative;
+	border-radius: 50%;
+	border: solid lightgrey 5px;
+	width: 250px;
+	height: 250px;
+	bottom: 12vh;
+}
+.mid-left{
+	background-color: white;
+	display: table-cell;
+}
+.mid-right{
+	background-color: white;
+	padding: 1%;
+	box-sizing: border-box;
+	display: table-cell;
+}
+.info1 h4{
+	margin-left: 10%;
+}
+.info2{
+	background-color: lightgrey;
+	border-bottom: solid;
+	border-bottom-color: white;
+}
+.info3 p, h5{
+	margin: 0 0 0 10%;
+}
+.info3 h5{
+	color: grey;
+}
+.skills{
+	background-color: cornflowerblue;
+	color: white;
+	border-bottom: solid;
+}
+.skills h4{
+	margin: 0;
+}
+.idiomas{
+	background-color: white;
+	color: black;
+	border-bottom: none;	
+}
+.hobbies{
+	background-color: lightgreen;
+}
+.hobbies h4{
+	margin: 0;
+	padding: 10%;
+}
+.footer{
+	background-color: white;
+	text-align: right;
+	border-top: solid;
+	border-top-color: lightgrey;
+}
+.footer h5{
+	margin-right: 1%;
+}
