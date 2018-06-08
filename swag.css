@@ -158,9 +158,11 @@ h1, h4, p{
 	bottom: 10vh;
 }
 .mid-left{
+	display: table-cell;
 	background-color: white;
 }
 .mid-right{
+	display: table-cell;
 	background-color: white;
 	padding: 1%;
 	box-sizing: border-box;
@@ -212,4 +214,7 @@ h1, h4, p{
 	background-color: white;
 	height: 14vh;
 	width: 100%;
+}
+.container{
+	background-color: white;
 }
